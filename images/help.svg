@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+<!--  <defs>-->
+<!--    <clipPath id="clip-path">-->
+<!--      <rect id="Rectangle_138" data-name="Rectangle 138" width="48" height="48" transform="translate(228 684)" fill="#251f29"/>-->
+<!--    </clipPath>-->
+<!--  </defs>-->
+  <g id="help" transform="translate(-228 -684)" clip-path="url(#clip-path)">
+    <g id="error_1_" data-name="error (1)" transform="translate(228 686.245)">
+      <path id="Path_5509" data-name="Path 5509" d="M21.931,4.844,38.688,33.867a7.242,7.242,0,0,1-6.276,10.859H15.656L9.861,22.971,15.656,1.216A7.239,7.239,0,0,1,21.931,4.844Z" transform="translate(8.344 -1.216)" fill="#3b4145"/>
+      <path id="Path_5510" data-name="Path 5510" d="M17.724,4.844.968,33.867A7.242,7.242,0,0,0,7.244,44.726H24V1.216A7.239,7.239,0,0,0,17.724,4.844Z" transform="translate(0 -1.216)" fill="#525a61"/>
+      <path id="Path_5511" data-name="Path 5511" d="M33.466,33.987,16.709,4.964a4.361,4.361,0,0,0-3.642-2.177L27.4,40.5h2.3a4.345,4.345,0,0,0,3.766-6.513Z" transform="translate(11.057 0.113)" fill="#ffb751"/>
+      <path id="Path_5512" data-name="Path 5512" d="M40.377,33.988a4.879,4.879,0,0,1,.5,2.167c0,2.4-1.681,4.346-3.749,4.346H5.916a4.345,4.345,0,0,1-3.767-6.513L18.905,4.965a4.365,4.365,0,0,1,3.767-2.18l.125,0a3.726,3.726,0,0,1,3.124,2.177Z" transform="translate(1.328 0.112)" fill="#ffd764"/>
+      <path id="Path_5513" data-name="Path 5513" d="M13,17.983v4.829a2.414,2.414,0,1,0,0-4.829Z" transform="translate(11 12.972)" fill="#3b4145"/>
+      <path id="Path_5514" data-name="Path 5514" d="M14.107,17.983c.267,0,.483,1.081.483,2.415s-.216,2.415-.483,2.415a2.415,2.415,0,0,1,0-4.829Z" transform="translate(9.893 12.972)" fill="#525a61"/>
+      <path id="Path_5515" data-name="Path 5515" d="M13,6.736V24.6a2.415,2.415,0,0,0,2.415-2.415V9.15A2.414,2.414,0,0,0,13,6.736Z" transform="translate(11 3.455)" fill="#3b4145"/>
+      <path id="Path_5516" data-name="Path 5516" d="M14.107,6.736c.267,0,.483,1.081.483,2.415V22.189c0,1.333-.216,2.415-.483,2.415a2.415,2.415,0,0,1-2.415-2.415V9.15A2.414,2.414,0,0,1,14.107,6.736Z" transform="translate(9.893 3.455)" fill="#525a61"/>
+    </g>
+  </g>
+</svg>

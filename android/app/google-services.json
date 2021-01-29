@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752763494973",
+    "firebase_url": "https://azul-api-football.firebaseio.com",
+    "project_id": "azul-api-football",
+    "storage_bucket": "azul-api-football.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752763494973:android:f516ba6cb5338cb7108054",
+        "android_client_info": {
+          "package_name": "com.md.kooraApi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752763494973-tq4cf41ib8lus9iltpms6n05t58fffqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgm5zcmiPvuuXU95ZHpJgc9dKiHg208aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752763494973-tq4cf41ib8lus9iltpms6n05t58fffqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TODO :  Change your App Name -->
+    <string name="app_name">Azul Football Api</string>
+
+    <!-- TODO: Change your Id App FACEBOOK -->
+    <string name="facebook_app_id">353947942249996</string>
+    <string name="fb_login_protocol_scheme">fb353947942249996</string>
+
+
+</resources>
